@@ -25,7 +25,10 @@ html {
 }
 
 .banner {
-
+position:absolute;
+padding-bottom: 0;
+padding-left: 0;
+color: #fff;
 }
 
 .banner-content {
