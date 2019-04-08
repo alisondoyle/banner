@@ -22,10 +22,11 @@ html {
 .img-flex {
   display: block;
   width: 100%;
+  overflow: hidden;
 }
 
 .banner {
-position:absolute;
+position: absolute;
 padding-bottom: 0;
 padding-left: 0;
 color: #fff;
