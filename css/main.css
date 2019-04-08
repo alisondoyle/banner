@@ -26,12 +26,15 @@ html {
 }
 
 .banner {
-position: absolute;
-padding-bottom: 0;
-padding-left: 0;
-color: #fff;
+max-height: 460px;
+position: relative;
 }
 
 .banner-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  color: #fff;
+}
 
 }
