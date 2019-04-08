@@ -37,22 +37,26 @@ html {
   color: #fff;
 }
 
-}
-
 @media only screen and (min-width: 38em) {
 
   .banner {
     max-height: 480px;
   }
 
-  @media only screen and (min-width: 38em) {
+}
 
-    .banner {
-      max-height: 460px;
-    }
+@media only screen and (min-width: 60em) {
 
-    @media only screen and (min-width: 38em) {
+  .banner {
+    max-height: 460px;
+  }
 
-      .banner {
-        max-height: 480px;
-      }
+}
+
+@media only screen and (min-width: 90em) {
+
+  .banner {
+    max-height: 480px;
+  }
+
+}
